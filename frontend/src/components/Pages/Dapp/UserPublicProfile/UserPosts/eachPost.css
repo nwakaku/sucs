@@ -1,0 +1,54 @@
+#editorData p,
+#editorData ul {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding-bottom: 8px;
+}
+
+#editorData ul {
+  padding-left: 35px;
+}
+
+#editorData li {
+  padding-bottom: 8px;
+  list-style: disc;
+}
+
+#editorData h2 {
+  font-size: 2.875rem /* 30px */;
+  line-height: 3.25rem /* 36px */;
+  text-align: center;
+  padding-bottom: 25px;
+  padding-top: 15px;
+}
+
+#editorData h3 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#editorData img {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+#editorData h4 {
+  padding-bottom: 8px;
+  padding-top: 15px;
+}
+
+#editorData blockquote {
+  border: 2px solid #bbd0ff;
+  border-radius: 12px;
+  padding: 25px 15px;
+  margin: 10px 0;
+
+}
+
+#editorData b {
+  line-height: 50px;
+}
